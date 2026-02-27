@@ -1,0 +1,3 @@
+fresh_edible
+non_edible
+spoiled_edible
